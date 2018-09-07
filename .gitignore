@@ -1,3 +1,9 @@
+# The build directory
+build/
+
+# Any emacs temporaries.
+*~
+
 # Prerequisites
 *.d
 
